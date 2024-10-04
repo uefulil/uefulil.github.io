@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uefulil.github.io/sitemap.html.gz
+Sitemap: https://uefulil.github.io/app/sitemap.html.gz
+Sitemap: https://uefulil.github.io/assets/sitemap.html.gz
+Sitemap: https://uefulil.github.io/css/sitemap.html.gz
+Sitemap: https://uefulil.github.io/data/sitemap.html.gz
+Sitemap: https://uefulil.github.io/includes/sitemap.html.gz
+Sitemap: https://uefulil.github.io/item/sitemap.html.gz
+Sitemap: https://uefulil.github.io/src/sitemap.html.gz
